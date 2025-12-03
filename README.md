@@ -6,6 +6,16 @@ This task is designed to simulate real work at elelem: improving code quality, f
 Clone this GitHub repository containing a React application to get started.
 Your goal is to complete all required deliverables within **48 hours** after receiving the repository link.
 
+> [!IMPORTANT]
+> - This repo is archived
+> - You should fork the repository
+> - Go to settings and make the repo private
+> - Create the PR and issues in your own forked repo
+> - Once you are done, invite @SheikSadi to review your work
+
+> [!CAUTION]
+> - Do NOT keep your repo public and make sure no one can plagiarize.
+
 ---
 
 ## 🚀 Deliverables Overview
